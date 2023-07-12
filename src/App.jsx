@@ -1,14 +1,4 @@
-import Hero from "./Hero";
-import Projects from "./Projects";
-
-
 const App = () => {
-
-  return (
-    <main>
-      <Hero/>
-      <Projects/>
-    </main>
-  );
+  return <h1>Contentful Starter</h1>;
 };
 export default App;
